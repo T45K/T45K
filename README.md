@@ -7,7 +7,7 @@
 ![parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 ![parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 
-# Contibutions
+# Contributions
 - [cdr/code-server](https://github.com/cdr/code-server/pull/730)
 - [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner/pull/63)
 - [exch-bms2/beatoraja](https://github.com/exch-bms2/beatoraja/pull/494)

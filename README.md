@@ -6,3 +6,16 @@
 ![parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 ![parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 ![parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
+
+# Contibutions
+- [cdr/code-server](https://github.com/cdr/code-server/pull/730)
+- [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner/pull/63)
+- [exch-bms2/beatoraja](https://github.com/exch-bms2/beatoraja/pull/494)
+- [mtj0928/SwiftyClone](https://github.com/mtj0928/SwiftyClone/pull/1)
+- [junit-team/junit4](https://github.com/junit-team/junit4/pull/1671)
+- [jruby/jruby](https://github.com/jruby/jruby/pull/6360)
+- [omegasisters/homepage](https://github.com/omegasisters/homepage/pull/395)
+- [jeffsvajlenko/BigCloneEval](https://github.com/jeffsvajlenko/BigCloneEval/pull/17)
+- [alibaba/fastjson](https://github.com/alibaba/fastjson/pull/3444)
+- [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava/pull/7080)
+- [kusumotolab/kGenProg](https://github.com/kusumotolab/kGenProg/pull/763)

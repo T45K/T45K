@@ -19,3 +19,4 @@
 - [alibaba/fastjson](https://github.com/alibaba/fastjson/pull/3444)
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava/pull/7080)
 - [kusumotolab/kGenProg](https://github.com/kusumotolab/kGenProg/pull/763)
+- [bumptech/glide](https://github.com/bumptech/glide/pull/4354)

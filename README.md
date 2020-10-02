@@ -21,3 +21,5 @@
 - [kusumotolab/kGenProg](https://github.com/kusumotolab/kGenProg/pull/763)
 - [bumptech/glide](https://github.com/bumptech/glide/pull/4354)
 - [google/guava](https://github.com/google/guava/pull/4036)
+- [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/pull/4945)
+- [libgdx/libgdx](https://github.com/libgdx/libgdx/pull/6201)

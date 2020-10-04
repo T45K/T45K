@@ -23,3 +23,4 @@
 - [google/guava](https://github.com/google/guava/pull/4036)
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/pull/4945)
 - [libgdx/libgdx](https://github.com/libgdx/libgdx/pull/6201)
+- [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pull/8872)

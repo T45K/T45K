@@ -25,3 +25,4 @@
 - [libgdx/libgdx](https://github.com/libgdx/libgdx/pull/6201)
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pull/8872)
 - [aserg-ufmg/apidiff](https://github.com/aserg-ufmg/apidiff/pull/5)
+- [alibaba/druid](https://github.com/alibaba/druid/pull/3956)

@@ -26,3 +26,4 @@
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pull/8872)
 - [aserg-ufmg/apidiff](https://github.com/aserg-ufmg/apidiff/pull/5)
 - [alibaba/druid](https://github.com/alibaba/druid/pull/3956)
+- [jacoco/jacoco](https://github.com/jacoco/jacoco/pull/1099)

@@ -29,3 +29,4 @@
 - [jacoco/jacoco](https://github.com/jacoco/jacoco/pull/1099)
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework/pull/26875)
 - [apache/groovy](https://github.com/apache/groovy/pull/1624)
+- [spockframework/spock](https://github.com/spockframework/spock/pull/1402)

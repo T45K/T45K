@@ -30,3 +30,4 @@
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework/pull/26875)
 - [apache/groovy](https://github.com/apache/groovy/pull/1624)
 - [spockframework/spock](https://github.com/spockframework/spock/pull/1402)
+- [hub4j/github-api](https://github.com/hub4j/github-api/pull/1353)

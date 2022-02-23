@@ -31,3 +31,4 @@
 - [apache/groovy](https://github.com/apache/groovy/pull/1624)
 - [spockframework/spock](https://github.com/spockframework/spock/pull/1402)
 - [hub4j/github-api](https://github.com/hub4j/github-api/pull/1353)
+- [zembutsu/docs.docker.jp](https://github.com/zembutsu/docs.docker.jp/pull/381)

@@ -20,6 +20,7 @@
 - [alibaba/druid](https://github.com/alibaba/druid/pull/3956)
 - [libgdx/libgdx](https://github.com/libgdx/libgdx/pull/6201)
 - [hub4j/github-api](https://github.com/hub4j/github-api/pull/1353)
+- [domaframework/doma](https://github.com/domaframework/doma/pull/912)
 
 ## Testing framework
 

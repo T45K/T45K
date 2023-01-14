@@ -31,9 +31,12 @@
 
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/pull/4945)
 - [cdr/code-server](https://github.com/cdr/code-server/pull/730)
+- [exch-bms2/beatoraja](https://github.com/exch-bms2/beatoraja/pull/494)
+
+## Code analysis tool
+
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pull/8872)
 - [jacoco/jacoco](https://github.com/jacoco/jacoco/pull/1099)
-- [exch-bms2/beatoraja](https://github.com/exch-bms2/beatoraja/pull/494)
 - [tsantalis/RefactoringMiner](https://github.com/tsantalis/RefactoringMiner/pull/63)
 - [jeffsvajlenko/BigCloneEval](https://github.com/jeffsvajlenko/BigCloneEval/pull/17)
 - [kusumotolab/kGenProg](https://github.com/kusumotolab/kGenProg/pull/763)

@@ -32,6 +32,7 @@
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins/pull/4945)
 - [cdr/code-server](https://github.com/cdr/code-server/pull/730)
 - [exch-bms2/beatoraja](https://github.com/exch-bms2/beatoraja/pull/494)
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community/pull/2115)
 
 ## Code analysis tool
 

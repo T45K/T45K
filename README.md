@@ -9,7 +9,7 @@
 
 ## Framework
 
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework/pull/26875)
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework/pull/31846)
 
 ## Library
 

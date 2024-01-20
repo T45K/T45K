@@ -22,6 +22,7 @@
 - [hub4j/github-api](https://github.com/hub4j/github-api/pull/1353)
 - [domaframework/doma](https://github.com/domaframework/doma/pull/912)
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin/pull/1813)
+- [doyaaaaaken/kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv/pull/134)
 
 ## Testing framework
 

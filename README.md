@@ -24,6 +24,7 @@
 - [ExpediaGroup/graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin/pull/1813)
 - [doyaaaaaken/kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv/pull/134)
 - [asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql/pull/207)
+- [mockk/mockk](https://github.com/mockk/mockk/pull/1234)
 
 ## Testing framework
 

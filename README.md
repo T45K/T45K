@@ -25,6 +25,7 @@
 - [doyaaaaaken/kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv/pull/134)
 - [asyncer-io/r2dbc-mysql](https://github.com/asyncer-io/r2dbc-mysql/pull/207)
 - [mockk/mockk](https://github.com/mockk/mockk/pull/1234)
+- [Kotlin/multik](https://github.com/Kotlin/multik/pull/207)
 
 ## Testing framework
 

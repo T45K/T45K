@@ -52,6 +52,7 @@
 ## Docs
 
 - [zembutsu/docs.docker.jp](https://github.com/zembutsu/docs.docker.jp/pull/381)
+- [komapper/komapper-docs](https://github.com/komapper/komapper-docs/pull/31)
 
 ## Others
 

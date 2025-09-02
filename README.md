@@ -31,6 +31,7 @@
 
 - [junit-team/junit4](https://github.com/junit-team/junit4/pull/1671)
 - [spockframework/spock](https://github.com/spockframework/spock/pull/1402)
+- [kotest/kotest](https://github.com/kotest/kotest/pull/5044)
 
 ## Application
 

@@ -1,4 +1,4 @@
-[![T45K's github stats](https://github-readme-stats.vercel.app/api?username=T45K&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![T45K's GitHub stats](https://github-readme-stats.vercel.app/api?username=T45K&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contributions
 

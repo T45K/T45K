@@ -39,6 +39,7 @@
 - [cdr/code-server](https://github.com/cdr/code-server/pull/730)
 - [exch-bms2/beatoraja](https://github.com/exch-bms2/beatoraja/pull/494)
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community/pull/2115)
+- [kiwamizamurai/accounting-quest](https://github.com/kiwamizamurai/accounting-quest)
 
 ## Code analysis tool
 
